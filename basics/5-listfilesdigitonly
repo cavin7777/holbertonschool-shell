@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1An
+ls -1na
